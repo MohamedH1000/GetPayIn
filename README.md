@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# GetPayIn
-=======
 # Flash Sale Checkout System
 
 A Laravel 12 API implementation demonstrating high-concurrency flash sale checkout with proper stock management, temporary holds, and idempotent payment webhooks.
@@ -425,4 +422,3 @@ echo "All hold requests completed"
 ## License
 
 This project is open-sourced software licensed under the MIT license.
->>>>>>> origin/master
